@@ -3,7 +3,7 @@
 ## 🏘️ 커뮤니티 사이트
 ### - 지분전쟁 디스코드 서버 https://discord.gg/gX3gK3pzJk
 ### - 포우(POW) https://powbitcoiner.com/
-### - 비트코인 소셜 레이어 [BSL notion.site](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
+### - 비트코인 소셜 레이어 [notion.site](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
 
 ## 🌐 개인 사이트
 ### ATOMIC⚡️₿ITCOIN [atomicBTC.kr](atomicBTC.kr)  
@@ -12,6 +12,9 @@
 - 비트코인 매장안내
 - 비트코인 행사안내
 - 비트코인 소셜레이어 안내 등
+
+### 네딸바와 함께 하는 비트코인 [notion.site](https://righteous-route-5d3.notion.site/1cdc206ac58f8010b45ad550d5686a08)
+- 비트코인 이해하는 순서 (유튜브 플레이리스트 형식)
   
 ### 셀프카스타드 [notion.site](https://florentine-porkpie-563.notion.site/2e905cab90ae4a979711ec40bbb85d64?v=7c329be91bd44a03928fcfa3ed4c3fe4)  
 - 노드설치 및 관리자료
