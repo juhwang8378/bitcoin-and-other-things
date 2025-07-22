@@ -1,4 +1,4 @@
-# Ju Hwang's blah blah
+# Ju Hwang's Bitcoin Resources
 
 ### Contact  
 X: [@juhwang8378](https://x.com/juhwang8378)  
