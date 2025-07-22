@@ -9,8 +9,8 @@
 | 4  | 더 피아트 스탠다드 | The Fiat Standard | 사이페딘 아모스 | 임경은 | 다산북스 | 2024-05-24 | 512 | [교보](https://product.kyobobook.co.kr/detail/S000213309730) |
 | 5  | 비트코인 낙관론  | The Bullish Case for Bitcoin | 비제이 보야파티 | 1분 비트코인 | 논스랩 | 2024-04-02 | 110 | [교보](https://product.kyobobook.co.kr/detail/S000212863324), [사토샵](https://store.btcmap.kr/stores/powbitcoiner/product/5/) |
 | 6  | 레이어드 머니 돈이 진화한다   | Layered Money | 닉 바티아 | 정성환  | 심플라이프 | 2021-11-22 | 228 | [교보](https://product.kyobobook.co.kr/detail/S000001891849) |
-| 7  | 비트코인이란 무엇인가         | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 8  | 비트코인 백서 해설            | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
+| 7  | 비트코인 디플로마 | Bitcoin Diploma | Mi Primer Bitcoin | ATOMIC BITCOIN | 자유지성 | 2024-05-01 | 136 | [교보(절판)](https://product.kyobobook.co.kr/detail/S000213235861) |
+| 8  | 비트코인 백서 해설            | 한국어 | 사토시 나카모토 | 필레몬.바우키스 해설 | 필레우시스 | 2025-02-01 | 972 | [교보](https://product.kyobobook.co.kr/detail/S000215698862), [필레우시스 스토어](https://store.phileucis.com/product/bk-btc-01-01/) |
 | 9  | 리얼 머니 더 비트코인         | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
 | 10 | 비트코인 블록사이즈 전쟁      | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
 | 11 | 비트코인 핸드북              | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
