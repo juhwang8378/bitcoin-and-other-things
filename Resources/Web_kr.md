@@ -1,6 +1,6 @@
 # 한국어 온라인 비트코인 자료
 
-## 개인/그룹 사이트
+## 🌐개인/그룹 사이트
 ### ATOMIC⚡️₿ITCOIN [atomicBTC.kr](atomicBTC.kr)  
 - 비트코인의 기본 개념, 전략, 오해, 미래
 - 비트코인 책 소개
@@ -14,7 +14,7 @@
 ### 비트코인 소셜 레이어 [BSL](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
 - 그룹소개 및 가입안내
 
-## 유튜브 채널
+## 🎦유튜브 채널
 [아토믹님 스레드](https://x.com/atomicBTC/status/1564381447527727104) 참고 (순서 무관)  
 
 ### 마지막 업로드 2025년
