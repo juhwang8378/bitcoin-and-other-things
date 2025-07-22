@@ -26,6 +26,7 @@
 - Rust-based Nostr: [rust-nostr/nostr](https://github.com/rust-nostr/nostr)
 - Nostr Personal Relay: [bitvora/haven](https://github.com/bitvora/haven)
 - Nostr Projects: [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)
+- Nostr Git: [NostrGit/NostrGit](https://github.com/aljazceru/NostrGit/NostrGit)
 
 
 ## Other
