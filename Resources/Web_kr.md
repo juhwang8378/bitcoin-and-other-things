@@ -7,7 +7,7 @@
 
 ## ⚡️ 라이트닝 결제
 - 사토샵 https://store.btcmap.kr/stores/browse/
-- 오프라인 결제 매장 https://btcmap.kr
+- 오프라인 결제 매장 [https://btcmap.kr](https://map.naver.com/p/favorite/myPlace/folder/fe1fa6f0d1bf4df3a628588a64a56210/pc?c=15.00,0,0,0,dh)
 
 ## 🌐 개인 사이트
 ### ATOMIC⚡️₿ITCOIN [atomicBTC.kr](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131)
