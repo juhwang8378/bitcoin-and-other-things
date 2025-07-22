@@ -1,10 +1,10 @@
-# 한국어로 출판 된 비트코인 서적
+# 한국어 비트코인 서적
 
 필독서  
 | #  | 제목                          | 원제                        | 저자                               | 역자   | 출판사     | 날짜         | 페이지 | 링크   |
 |----|-----------------------------|-----------------------------|------------------------------------|--------|------------|--------------|--------|--------|
-| 1  | 왜 그들만 부자가 되는가      | Blind Robbery!             | 필립 바구스.안드레아스 마르크바르트 | 배진아 | 북모먼트   | 2025-01-08   | 324    | 교보   |
-| 2  | 달러는 왜 비트코인을 싫어하는가 | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
+| 1  | 왜 그들만 부자가 되는가      | Blind Robbery!   | 필립 바구스.안드레아스 마르크바르트 | 배진아 | 북모먼트   | 2025-01-08   | 324    | 교보   |
+| 2  | 달러는 왜 비트코인을 싫어하는가 | The Bitcoin Standard  | 사이페딘 아모스  | 위대선 | 터닝포인트 | 2018-12-10 | 2018-12-10| ? |
 | 3  | 21가지 교훈                  | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
 | 4  | 더 피아트 스탠다드            | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
 | 5  | 비트코인 낙관론               | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
