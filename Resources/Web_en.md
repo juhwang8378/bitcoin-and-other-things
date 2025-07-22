@@ -20,6 +20,7 @@ Browser clients:
 - Github: [@dergigi](https://github.com/dergigi)
 
 ### Lyn Alden https://www.lynalden.com/
+- Founder of Lyn Alden Investment Strategy. Partner at Ego Death Capital. Finance/Engineering blended background.
 - nostr:npub1a2cww4kn9wqte4ry70vyfwqyqvpswksna27rtxd8vty6c74era8sdcw83a
 - X: [@lynaldencontact](https://x.com/lynaldencontact)
 
