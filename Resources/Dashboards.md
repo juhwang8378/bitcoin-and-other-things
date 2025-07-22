@@ -22,13 +22,16 @@
 ![Picture](pics/screenshot_timechainindex.png)
 
 ## 8. [Bitbo.io](https://bitbo.io/) by [@BitboBTC](https://x.com/BitboBTC)
-![Picture](pics/screenshot_bitnodes.png)
+![Picture](pics/screenshot_bitbo.png)
 
 ## 9. [Bitnodes.io](https://bitnodes.io/) by [@ayeowch](https://github.com/ayeowch/bitnodes)
 ![Picture](pics/screenshot_bitnodes.png)
 
-## 10. [Bitcoin Treasuries](https://bitbo.io/treasuries/) by [@ayeowch](https://github.com/ayeowch/bitnodes)
-![Picture](pics/screenshot_bitnodes.png)
+## 10. [Bitcoin Treasuries](https://bitbo.io/treasuries/) by [@BitboBTC](https://x.com/BitboBTC)
+![Picture](pics/screenshot_bitbotreasuries.png)
 
-## 11. [Bitcoin Treasuries](https://timechainstats.com/) by [@TimechainStats](https://x.com/TimechainStats)
-![Picture](pics/screenshot_timechaincal.png)
+## 11. [Bitcoin Treasuries](https://bitcointreasuries.net/) by [@BTCtreasuries](https://x.com/BTCTreasuries)
+![Picture](pics/screenshot_bitbotreasuries.png)
+
+## 12. [Bitcoin Treasuries](https://casebitcoin.com/) by [@case4bitcoin](https://x.com/case4bitcoin)
+![Picture](pics/screenshot_casebitcoin.png)
