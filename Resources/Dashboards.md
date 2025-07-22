@@ -31,7 +31,7 @@
 ![Picture](pics/screenshot_bitbotreasuries.png)
 
 ## 11. [Bitcoin Treasuries](https://bitcointreasuries.net/) by [@BTCtreasuries](https://x.com/BTCTreasuries)
-![Picture](pics/screenshot_bitbotreasuries.png)
+![Picture](pics/screenshot_bitcointreasuries.png)
 
 ## 12. [Bitcoin Treasuries](https://casebitcoin.com/) by [@case4bitcoin](https://x.com/case4bitcoin)
 ![Picture](pics/screenshot_casebitcoin.png)
