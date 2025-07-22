@@ -20,6 +20,8 @@
 - Nostr Protocol: [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr)
 - Rust-based Nostr: [rust-nostr/nostr](https://github.com/rust-nostr/nostr)
 - Nostr Personal Relay: [bitvora/haven](https://github.com/bitvora/haven)
+- Nostr Projects: [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)
+
 
 ## Other
 - Bitcoin Improvement Proposals: [bitcoin/bips](https://github.com/bitcoin/bips)
