@@ -1,4 +1,4 @@
-# ChatGPT 비트코인 명령
+# ChatGPT 비트코인 지침
 ChatGPT가 항상 국가주의적이고 크립토 친화적인 답만 줘서, 비트코인에 대해 대화할 때 거의 쓸모가 없다고 느꼈다. 그래서 이걸 해결하려고 이성적인 비트코인 중심 답변을 “군더더기 없는” 스타일로 만들 수 있게 프롬프트를 짜봤다. 프롬프트 두번째 문단은 삭제된 인기 [레딧 글](https://www.reddit.com/r/ChatGPT/comments/1k9bxdk/the_prompt_that_makes_chatgpt_go_cold/)에서 가져온 것
 
 ## 설명:
