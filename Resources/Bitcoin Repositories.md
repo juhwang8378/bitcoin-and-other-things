@@ -7,7 +7,7 @@
 - Rust-based Electrum Server: [romanz/electrs](https://github.com/romanz/electrs)
 - Bitcoin Improvement Proposals (BIPs): [bitcoin/bips](https://github.com/bitcoin/bips)
 
-## Wallets
+## Wallets 
 - Sparrow Wallet: [sparrowwallet/sparrow](https://github.com/sparrowwallet/sparrow)
 - Wasabi Wallet: [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi)
 - Cake Wallet: [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)
@@ -15,6 +15,7 @@
 
 ## Lightning ⚡️
 - Lightning Network Daemon: [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
+- Core Lightning: [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
 - BOLT (Basis of Lightning Technology): [lightning/bolts](https://github.com/lightning/bolts)
 - Browser App for LND: [Ride-The-Lightning/RTL](https://github.com/Ride-The-Lightning/RTL)
 - Bitcoin Lightning Improvement Proposals (BLIPs): [lightning/blips](https://github.com/lightning/blips)
