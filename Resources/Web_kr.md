@@ -7,6 +7,7 @@
 
 ## ⚡️ 라이트닝 결제
 - 사토샵 https://store.btcmap.kr/stores/browse/
+- 사토시마켓 https://satoshimarket.biz/ecommerce/
 - 오프라인 결제 매장 [https://btcmap.kr](https://map.naver.com/p/favorite/myPlace/folder/fe1fa6f0d1bf4df3a628588a64a56210/pc?c=15.00,0,0,0,dh)
 
 ## 🌐 개인 사이트
