@@ -17,6 +17,8 @@
 - Browser App for LND: [Ride-The-Lightning/RTL](https://github.com/Ride-The-Lightning/RTL)
 
 ## Nostr
+- Nostr Protocol: [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr)
+- Rust-based Nostr: [rust-nostr/nostr](https://github.com/rust-nostr/nostr)
 - Nostr Personal Relay: [bitvora/haven](https://github.com/bitvora/haven)
 
 ## Other
