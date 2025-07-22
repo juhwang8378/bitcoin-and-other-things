@@ -1,6 +1,5 @@
-# 한국어 서적
+<img width="458" height="641" alt="image" src="https://github.com/user-attachments/assets/6625f7f3-5fb2-4ef5-a9d6-0e34354c7d82" /># 한국어 서적
 
-필독서  
 | #  | 제목                          | 원제                        | 저자                               | 역자   | 출판사     | 날짜         | 페이지 | 링크   |
 |----|-----------------------------|-----------------------------|------------------------------------|--------|------------|--------------|--------|--------|
 | 1  | 왜 그들만 부자가 되는가      | Blind Robbery!   | 필립 바구스.안드레아스 마르크바르트 | 배진아 | 북모먼트   | 2025-01-08   | 324    | [교보](https://product.kyobobook.co.kr/detail/S000215067855)   |
@@ -16,3 +15,5 @@
 | 11 | 비트코인 블록사이즈 전쟁 | The Blocksize War  | 조나단 비어 | 네딸바 | 논스랩 | 2024-11-17 | 356 | [교보](https://product.kyobobook.co.kr/detail/S000214843763) |
 | 12 | 비트코인 핸드북  | Bitcoin Handbook | 아닐 파텔 | 포우 팀 | 논스랩 | 2025-07-21 | 78 | [네이버](https://smartstore.naver.com/noncelab/products/10823654497), [사토샵](https://store.btcmap.kr/stores/powbitcoiner/product/99/) |
 | 13 | 사토시의 서 | The Book of Satoshi  | 필 샴페인  | 조진수 | 한빛미디어 | 2021-02-05 | 368 | [교보](https://product.kyobobook.co.kr/detail/S000001810349) |
+| 14 | 땡스 갓 포 비트코인 | Thank God for Bitcoin  | 지미 송 외 7인  | 김명훈 | 거인의 정원 | 2025-04-25 | 284 | [교보](https://product.kyobobook.co.kr/detail/S000216296912) |
+| 15 | 비트코인 웨이브 | 한국어 원본  | 이종민  | N/A | 넷마루 | 2025-06-11 | 276 | [교보](https://product.kyobobook.co.kr/detail/S000216805028) |
