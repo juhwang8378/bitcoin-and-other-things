@@ -1,4 +1,4 @@
-# 한국어 비트코인 서적
+# 한국어 서적
 
 필독서  
 | #  | 제목                          | 원제                        | 저자                               | 역자   | 출판사     | 날짜         | 페이지 | 링크   |
@@ -10,12 +10,9 @@
 | 5  | 비트코인 낙관론  | The Bullish Case for Bitcoin | 비제이 보야파티 | 1분 비트코인 | 논스랩 | 2024-04-02 | 110 | [교보](https://product.kyobobook.co.kr/detail/S000212863324), [사토샵](https://store.btcmap.kr/stores/powbitcoiner/product/5/) |
 | 6  | 레이어드 머니 돈이 진화한다   | Layered Money | 닉 바티아 | 정성환  | 심플라이프 | 2021-11-22 | 228 | [교보](https://product.kyobobook.co.kr/detail/S000001891849) |
 | 7  | 비트코인 디플로마 | Bitcoin Diploma | Mi Primer Bitcoin | ATOMIC BITCOIN | 자유지성 | 2024-05-01 | 136 | [교보(절판)](https://product.kyobobook.co.kr/detail/S000213235861) |
-| 8  | 비트코인 백서 해설            | 한국어 | 사토시 나카모토 | 필레몬.바우키스 해설 | 필레우시스 | 2025-02-01 | 972 | [교보](https://product.kyobobook.co.kr/detail/S000215698862), [필레우시스 스토어](https://store.phileucis.com/product/bk-btc-01-01/) |
-| 9  | 리얼 머니 더 비트코인         | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 10 | 비트코인 블록사이즈 전쟁      | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 11 | 비트코인 핸드북              | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 12 | 사토시의 서                  | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 13 | Title                        | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 14 | Text                         | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 15 | Title                        | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
-| 16 | Text                         | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
+| 8  | 비트코인 백서 해설  | 한국어 원본 | 사토시 나카모토 | 필레몬.바우키스 해설 | 필레우시스 | 2025-02-01 | 972 | [교보](https://product.kyobobook.co.kr/detail/S000215698862), [필레우시스 스토어](https://store.phileucis.com/product/bk-btc-01-01/) |
+| 9 | 비트코인 사용 가이드 | 한국어 원본 | 필레몬  | HYPE 감수 | 필레우시스 | 2025-06-05 | 632 | [교보(절판)](https://product.kyobobook.co.kr/detail/S000216796970), [필레우시스 스토어](https://store.phileucis.com/product/bk-btc-02-01/) |
+| 10  | 리얼 머니 더 비트코인         | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
+| 11 | 비트코인 블록사이즈 전쟁      | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
+| 12 | 비트코인 핸드북                        | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
+| 13 | 사토시의 서                  | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
