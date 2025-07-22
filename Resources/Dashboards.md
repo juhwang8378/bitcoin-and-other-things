@@ -1,4 +1,4 @@
-# BTC Dashboard Sites
+# BTC Dashboard Websites
 
 ## 1. [Mempool.space](https://mempool.space) by [@mempool](https://x.com/mempool)
 ![Picture](pics/screenshot_mempoolspace.png)
