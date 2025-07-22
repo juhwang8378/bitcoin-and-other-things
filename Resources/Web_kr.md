@@ -40,6 +40,6 @@
 - 블루 [@lyubleu](https://www.youtube.com/@lyubleu)
 - 포우 [@powbitcoiner](https://www.youtube.com/@powbitcoiner)
 - 스펙터 비트코인 [@BitcoinSPECTER2100](https://www.youtube.com/@BitcoinSPECTER2100)
-- (https://www.youtube.com/@네딸바)
-- (https://www.youtube.com/@네딸바)
-- (https://www.youtube.com/@네딸바)
+- 비트벌새 [@btc_hummingbird](https://www.youtube.com/@btc_hummingbird)
+
+- 미제스연구소TV [@TV-ki6ss](https://www.youtube.com/@TV-ki6ss)
