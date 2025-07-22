@@ -6,7 +6,7 @@
 ### - 비트코인 소셜 레이어 [notion.site](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
 
 ## 🌐 개인 사이트
-### ATOMIC⚡️₿ITCOIN [atomicBTC.kr](https://atomicBTC.kr)  
+### ATOMIC⚡️₿ITCOIN [atomicBTC.kr]([https://atomicBTC.kr](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131))  
 - 비트코인의 기본 개념, 전략, 오해, 미래
 - 비트코인 책 소개
 - 비트코인 매장안내
