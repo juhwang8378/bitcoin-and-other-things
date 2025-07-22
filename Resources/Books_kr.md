@@ -6,9 +6,9 @@
 | 1  | 왜 그들만 부자가 되는가      | Blind Robbery!   | 필립 바구스.안드레아스 마르크바르트 | 배진아 | 북모먼트   | 2025-01-08   | 324    | [교보](https://product.kyobobook.co.kr/detail/S000215067855)   |
 | 2  | 달러는 왜 비트코인을 싫어하는가 | The Bitcoin Standard  | 사이페딘 아모스  | 위대선 | 터닝포인트 | 2018-12-10 | 424 | [교보](https://product.kyobobook.co.kr/detail/S000001800629) |
 | 3  | 21가지 교훈 | 21 Lessons  | 비트코이너 지지 | 포우 팀 | 논스랩 | 2024-02-01 | 141 | [교보](https://product.kyobobook.co.kr/detail/S000212159353), [사토샵](https://store.btcmap.kr/stores/powbitcoiner/product/4/)|
-| 4  | 더 피아트 스탠다드 | The Fiat Standard | 사이페딘 아모스 | 임경은 | 다산북스 | 2024-05-24 | 512 | [교보](https://product.kyobobook.co.kr/detail/S000213309730) |
+| 4  | 더 피아트 스탠다드 | The Fiat Standard | 사이페딘 아모스 | 임경은 | 다산북스 | 2024-05-24 | 512 | [교보](https://product.kyobobook.co.kr/detail/S000213309730) |
 | 5  | 비트코인 낙관론  | The Bullish Case for Bitcoin | 비제이 보야파티 | 1분 비트코인 | 논스랩 | 2024-04-02 | 110 | [교보](https://product.kyobobook.co.kr/detail/S000212863324), [사토샵](https://store.btcmap.kr/stores/powbitcoiner/product/5/) |
-| 6  | 레이어드 머니 돈이 진화한다   | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
+| 6  | 레이어드 머니 돈이 진화한다   | Layered Money | 닉 바티아 | 정성환  | 심플라이프 | 2021-11-22 | 228 | [교보](https://product.kyobobook.co.kr/detail/S000001891849) |
 | 7  | 비트코인이란 무엇인가         | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
 | 8  | 비트코인 백서 해설            | And more                   | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
 | 9  | 리얼 머니 더 비트코인         | Here’s this                | Here’s this                        | Here’s this | Here’s this | Here’s this | Here’s this | ㅁㄴㅇㄹ |
