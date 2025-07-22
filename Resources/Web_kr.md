@@ -20,7 +20,7 @@
 - 노드설치 및 관리자료
 
 ## 🎦 유튜브 채널
-[아토믹님 스레드](https://x.com/atomicBTC/status/1564381447527727104) 참고 (순서 무관)  
+[@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) 참고 (순서 무관)  
 
 ### 마지막 업로드 2025년
 - 지분전쟁⚡️상원수 [@btc5000k](https://www.youtube.com/@btc5000k)
