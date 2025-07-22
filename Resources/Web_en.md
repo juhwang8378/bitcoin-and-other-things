@@ -32,7 +32,9 @@ Browser clients:
 - I work on scaling systems and platforms for the internet. Director of Digital Currency @medialab, BoD @blocks. PhD from @MIT_CSAIL, formerly @digg, @google
 - X: [@neha](https://x.com/neha)
 
-## 🌐 Other sites
+## Educational Sites
+
+## 🌐 Other Sites
 ### Bitcoiner Jobs https://bitcoinerjobs.com/
 - The leading career site helping to build the emerging Bitcoin industry and the careers of Bitcoiners within it
 
@@ -40,6 +42,10 @@ Browser clients:
 - 비트코인 이해하는 순서 (유튜브 플레이리스트 형식)
 
 ## 🌐 Services
+### Bitrefil
+### Redot Pay
+### Firefish
+### 
 
 ## 🌐 Applications
 
