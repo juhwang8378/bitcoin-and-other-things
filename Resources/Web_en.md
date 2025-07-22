@@ -14,13 +14,23 @@ Browser clients:
 - Primal: https://primal.net/home
 - Yakihonne: https://yakihonne.com/
 
-## 🌐 개인 사이트
-### ATOMIC⚡️₿ITCOIN [atomicBTC.kr](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131)
-- 비트코인의 기본 개념, 전략, 오해, 미래
-- 비트코인 책 소개
-- 비트코인 매장안내
-- 비트코인 행사안내
-- 비트코인 소셜레이어 안내 등
+## 👨‍🔧 Personal Blogs
+### Gigi https://dergigi.com/blog/
+- nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
+- [@dergigi](https://github.com/dergigi)
+
+### GHOST https://untraceabledigitaldissident.com/articles/
+- nostr:npub18dlusgmprudw46nracaldxe9hz4pdmrws8g6lsusy6qglcv5x48s0lh8x3
+- Tips and guides on digital privacy
+
+### Neha Narula https://nehanarula.org/ (Ark protocol)
+- I work on scaling systems and platforms for the internet. Director of Digital Currency @medialab, BoD @blocks. PhD from @MIT_CSAIL, formerly @digg, @google
+- [@neha](https://x.com/neha)
+
+## 🌐 Other sites
+### Bitcoiner Jobs https://bitcoinerjobs.com/
+- The leading career site helping to build the emerging Bitcoin industry and the careers of Bitcoiners within it
+
 
 ### 네딸바와 함께 하는 비트코인 [notion.site](https://righteous-route-5d3.notion.site/1cdc206ac58f8010b45ad550d5686a08)
 - 비트코인 이해하는 순서 (유튜브 플레이리스트 형식)
