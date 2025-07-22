@@ -1,6 +1,6 @@
 # ChatGPT Bitcoin Instructions
 
-For me, ChatGPT always gives statist, crypto-friendly answers that are pretty much useless when having a conversation about bitcoin. I've come up with a prompt that instructs ChatGPT with both a rational bitcoin-oriented answer in a "no-fluff" style. The second half of the prompt is taken from a popular reddit [post](https://www.reddit.com/r/ChatGPT/comments/1k9bxdk/the_prompt_that_makes_chatgpt_go_cold/) that got deleted. 
+For me, ChatGPT always gives statist, crypto-friendly answers that are pretty much useless when having a conversation about bitcoin. I've come up with a prompt that instructs ChatGPT with both a rational bitcoin-oriented answer in a "no-fluff" style. The second half of the prompt is taken from a popular [reddit post](https://www.reddit.com/r/ChatGPT/comments/1k9bxdk/the_prompt_that_makes_chatgpt_go_cold/) that got deleted. 
 
 ## Instructions:
 
