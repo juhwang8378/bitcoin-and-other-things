@@ -1,9 +1,16 @@
 # 내가 좋아하는 트윗 모음
 
+- Cyp3er님의 [비트코인 커뮤니티 가이드 및 정보 글 모음](https://x.com/cyp3er/status/1886656144229421553)
 - BTC에 미친 사나이님의 [공기계로 "진짜로" 비트코인 채굴하는 방법](https://x.com/nestedSegwit/status/1705967432777838712)
 - BTC에 미친 사나이님의 [트잭 10번 이하 견해 언급금지](https://x.com/nestedSegwit/status/1757713218821337441)
+- BTC에 미친 사나니님의 ["비트코인 몇개 있으신가요?"](https://x.com/nestedSegwit/status/1831641600088514806)
 - 머레이님의 [정치인의 속마음](https://x.com/murray_n_r/status/1936216255268372719)
 - 머레이님의 [지적재산권의 허상](https://x.com/murray_n_r/status/1936027377899126921)
 - 머레이님의 [비트코인 Coinjoin 이용방법](https://x.com/murray_n_r/status/1933136522242671020)
-
-- 
+- 머레이님의 [민간법 체계 실현 메커니즘](https://x.com/murray_n_r/status/1919667190175060365)
+- 머레이님의 [국가 통화 독점에 맞선 개인들의 필수 전략: 대출](https://x.com/murray_n_r/status/1927276654105182560)
+- 머레이님의 [대롱령 선거 참여, 아나코캐피탈리즘 지지, 비트코인 셀프커스터디의 비교](https://x.com/murray_n_r/status/1922115160023695386)
+- 아토믹님의 [(비트코인은) 상속이 되지 않아서 문제다](https://x.com/atomicBTC/status/1891429925430710687)
+- 아토믹님의 [THE DAO WAR (더 다오워) 1편~5편](https://x.com/atomicBTC/status/1601742127297617923)
+- 네딸바님의 [물음표(?)만 달았다고 해서 질문인건 아님](https://x.com/nldd21/status/1899621629061398581)
+- 네딸바님의 [비트코인을 이제 시작하신 분들을 위한 영상 추천](https://x.com/nldd21/status/1860709287481467109)
