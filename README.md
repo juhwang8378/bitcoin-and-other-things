@@ -1,7 +1,7 @@
 # Ju Hwang's Bitcoin Resources
 
 <details>
-  <summary>Contact </summary>
+  <summary>Click here for my contacts </summary>
   <p>X: 
     <a href="https://x.com/juhwang8378">@juhwang8378</a>
   </p>
