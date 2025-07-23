@@ -34,6 +34,25 @@ Browser clients:
 
 ## Educational Sites
 
+## Bitcoin Standard Sites
+### [BTC Map](https://btcmap.org/)
+- Map of merchants who accept BTC
+
+### [Coin ATM Radar](https://coinatmradar.com/)
+- Bitcoin ATM finder
+
+### [Travala.com](https://travala.com/payment/bitcoin-btc)
+- Travel booking site
+
+### [Airbtc](https://airbtc.online/)
+- Airbnb alternative
+
+### [Bitrefill](https://www.bitrefill.com/kr/en/)
+- Buy giftcards with BTC
+
+### [RedotPay](https://www.redotpay.com/)
+- Spend your BTC with debit card
+
 ## 🌐 Other Sites
 ### Bitcoiner Jobs https://bitcoinerjobs.com/
 - The leading career site helping to build the emerging Bitcoin industry and the careers of Bitcoiners within it
@@ -42,14 +61,10 @@ Browser clients:
 - 비트코인 이해하는 순서 (유튜브 플레이리스트 형식)
 
 ## 🌐 Services
-### Bitrefil
-### Redot Pay
 ### Firefish
 ### 
 
 ## 🌐 Applications
-
-@lynaldencontact
 
 ## 🎦 유튜브 채널
 (In no particular order)
