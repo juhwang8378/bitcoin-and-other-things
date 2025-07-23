@@ -6,7 +6,7 @@ For me, ChatGPT always gives statist, crypto-friendly answers that are pretty mu
 
 1. Create a project in ChatGPT
 2. Click on Instructions
-3. (Or skip the above and just do #4)
+3. (Or skip the above and just do #4 if you want it applied to all conversations)
 4. Copy and paste the prompt below
 5. Test it out by asking anything
 
