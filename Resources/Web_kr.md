@@ -17,7 +17,7 @@
 - 비트코인 책 소개, 매장안내, 행사안내
 - 비트코인 소셜레이어 안내 등
 
-### Coinsect님의 [bitcoin blog](https://btc.coinsect.io/)
+### @CoinsectChris님의 [bitcoin blog](https://btc.coinsect.io/)
 - **(강추)** 아티클과 여러가지 비트코인 관련 도구들이 있는 블로그
 
 ### 네딸바와 함께 하는 비트코인 [notion.site](https://righteous-route-5d3.notion.site/1cdc206ac58f8010b45ad550d5686a08)
@@ -25,6 +25,9 @@
   
 ### 셀프카스타드 [notion.site](https://florentine-porkpie-563.notion.site/2e905cab90ae4a979711ec40bbb85d64?v=7c329be91bd44a03928fcfa3ed4c3fe4)  
 - 노드설치 및 관리자료
+
+### @Kopernik_BTC님의 [There is no Second Best⚡️그래프(BTC vs WTF)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ6E5uQvhgC4scIMLfhoh0f6u4xZS0LZhkY2pWcBDkFGjztA2K0_sD1JTgs59bUhg/pubhtml)
+- 구글시트: BTC대비 압구정 현대아파트, 테슬라, 스트레티지, S&P, 삼성전자 그래프+테이블
 
 ## 🎦 유튜브 채널
 [@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) 참고 (순서 무관)  
