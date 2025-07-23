@@ -2,6 +2,7 @@
 
 ## 🏘️ 커뮤니티 사이트
 #### - 지분전쟁 디스코드 서버 https://discord.gg/gX3gK3pzJk
+#### - 지분전쟁 네이버 카페 https://cafe.naver.com/btcforever
 #### - 포우(POW) https://powbitcoiner.com/
 #### - 비트코인 소셜 레이어 [notion.site](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
 
