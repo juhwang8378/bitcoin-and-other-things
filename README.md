@@ -13,6 +13,6 @@
   </p>
 </details>
 
-<p style="font-size: 0.8em;">
+<p style="font-size: 0.4em;">
   Disclaimer: The information provided in this repository is for general informational purposes only. While I strive to keep the content accurate and up to date, I make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, or suitability of the information contained herein. Use of this repository and any reliance on its content is strictly at your own risk. I accept no responsibility or liability for any errors, omissions, or outcomes resulting from its use.
 </p>
