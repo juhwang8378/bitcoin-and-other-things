@@ -17,6 +17,9 @@
 - 비트코인 책 소개, 매장안내, 행사안내
 - 비트코인 소셜레이어 안내 등
 
+### Coinsect님의 [bitcoin blog](https://btc.coinsect.io/)
+- **(강추)** 아티클과 여러가지 비트코인 관련 도구들이 있는 블로그
+
 ### 네딸바와 함께 하는 비트코인 [notion.site](https://righteous-route-5d3.notion.site/1cdc206ac58f8010b45ad550d5686a08)
 - 비트코인 이해하는 순서 (유튜브 플레이리스트 형식)
   
