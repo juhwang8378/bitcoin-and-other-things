@@ -5,3 +5,5 @@
 - 머레이님의 [정치인의 속마음](https://x.com/murray_n_r/status/1936216255268372719)
 - 머레이님의 [지적재산권의 허상](https://x.com/murray_n_r/status/1936027377899126921)
 - 머레이님의 [비트코인 Coinjoin 이용방법](https://x.com/murray_n_r/status/1933136522242671020)
+
+- 
