@@ -33,8 +33,14 @@ Browser clients:
 - X: [@neha](https://x.com/neha)
 
 ## Educational Sites
+## [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+### [Getting Started with Bitcoin](https://bitcoin.org/en/getting-started)
+### [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+### [Bitcoin Wiki/Help:FAQ](https://en.bitcoin.it/wiki/Help:FAQ)
+### [What's the Problem?](https://www.satsvsfiat.com/)
 
-## Bitcoin Standard Sites
+
+## 💳 Bitcoin Standard Sites
 ### [BTC Map](https://btcmap.org/)
 - Map of merchants who accept BTC
 
