@@ -14,7 +14,6 @@
 - Bitcoin Illustrated [RBF: Replace-By-Fee explained simply](https://x.com/BTCillustrated/status/1854787582250692767)
 - BTCCLUB [Melbourne Investment Real Estate Results](https://x.com/ausbtcclub/status/1929318019542728770)
 - Rumi [A grateful heart sees abundance everywhere](https://x.com/rumilyrics/status/1946922036971901270)
-- 
 
 ### History
 - Michael Saylor [#Bitcoin days are numbered](https://x.com/saylor/status/413478389329428480)
