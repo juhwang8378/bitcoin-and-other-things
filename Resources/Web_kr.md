@@ -61,6 +61,7 @@
     
 ### 마지막 업로드 2024년 이전
 - 신박한 신박사 [@AmazingDrShin](https://www.youtube.com/@AmazingDrShin)
+- economicstudio [@economicstudio](https://www.youtube.com/@economicstudio)
 - 비트마이너 [@비트마이너](https://www.youtube.com/@비트마이너)
 - 오리지널 마인드 [@오리지널마인드](https://www.youtube.com/@오리지널마인드)
 - 구해줘 비트코인 [@sosbtc](https://www.youtube.com/@sosbtc)
