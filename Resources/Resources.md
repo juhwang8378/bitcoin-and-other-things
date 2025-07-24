@@ -39,6 +39,10 @@
 ### 6. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
 > 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳  
 > (2024년 1월 29일 마지막 글)
+
+### 7. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
+> 여러 아티클 그리고 자료와 도구
+> (2023년 12월 7일 마지막 글)
 ---
 
 ## 🌐 그 외 사이트
