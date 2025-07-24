@@ -1,4 +1,4 @@
-# 비트코인 한국어 자료 정리
+# 비트코인 자료 정리
 
 영어 자료 정리는 [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)을 넘어설 수 없다고 생각해서 한국어만 정리해봤습니다.
 
