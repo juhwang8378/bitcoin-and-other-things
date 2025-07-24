@@ -11,8 +11,8 @@
 - 사토시마켓 https://satoshimarket.biz/ecommerce/
 - 오프라인 결제 매장 지도 [https://btcmap.kr](https://map.naver.com/p/favorite/myPlace/folder/fe1fa6f0d1bf4df3a628588a64a56210/pc?c=15.00,0,0,0,dh)
 ---
-## 📚 비트코인 도서
-아토믹님 정리 [노션](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131?p=134b1d6dd35f8145983bc898c41d40ce&pm=c), [X](https://x.com/atomicBTC/status/1772962907757621580)
+## 📚 비트코인 도서  
+### @atomicBTC님 정리 [노션](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131?p=134b1d6dd35f8145983bc898c41d40ce&pm=c), [X](https://x.com/atomicBTC/status/1772962907757621580)
 ---
 ## 🌐 개인 사이트
 ### 1. ATOMIC⚡️₿ITCOIN [atomicBTC.kr](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131)
