@@ -22,3 +22,5 @@
 - BTC에 미친 사나이님의 [트잭 10번 이하 견해 언급금지](https://x.com/nestedSegwit/status/1757713218821337441)
 - BTC에 미친 사나니님의 ["비트코인 몇개 있으신가요?"](https://x.com/nestedSegwit/status/1831641600088514806)
 - 오수님의 [하지마Tlqkf](https://x.com/123aa75439260/status/1669200851259494402)
+- Cyp3er님의 ["딸깍"](https://x.com/cyp3er/status/1948308568471752894?s=46&t=vL-DtBaauExnBKoZPRSnaw)️
+- 기분전쟁⚡️중원수님의 [어떻게 알았냐](https://x.com/1zza_nasa/status/1870794220791107826?s=46&t=vL-DtBaauExnBKoZPRSnaw)
