@@ -39,7 +39,7 @@
 > 비트코인의 기본지식 설명  
 > 주의: 니모닉 복구 업체/쉿코인 링크
 
-### [BIP39 니모닉 단어 파일](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
+### [BIP39 니모닉 단어 파일 (영문)](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 
 ---
 ## 🐦 교육용 트윗
