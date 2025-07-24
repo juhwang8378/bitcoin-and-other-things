@@ -11,6 +11,7 @@
 - Liana Wallet [Bitcoin timelocks](https://x.com/lianabitcoin/status/1915733139739000977)
 - 5KSANA [BitcoinArt Self-hosting](https://x.com/5Ksana/status/1941541747689128407)
 - Bitcoin Illustrated [RBF: Replace-By-Fee explained simply](https://x.com/BTCillustrated/status/1854787582250692767)
+- Bitronics [Connecting your home miner to OCEAN](https://x.com/BitronicsStore/status/1948066076958572852)
 
 ### Miscellaneous 
 - Saifedean Ammous [Happy 2025!](https://x.com/saifedean/status/1874529178843848784)
