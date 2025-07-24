@@ -1,7 +1,7 @@
 # 비트코인 자료 정리
 
 영어 자료 정리는 [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)을 넘어설 수 없다고 생각해서 한국어만 정리해봤습니다.
-### 메인 비트코인 온라인 자료 모음: [링크](Resources/Online_KR.md)
+### 메인 자료 모음: [링크](Resources/Online_KR.md)
 
 ### 그 외 자료
 - 비트코인 백서: [영어](https://bitcoin.org/bitcoin.pdf), [한글](Resources/pdf/백서_한글번역(A4).pdf)
