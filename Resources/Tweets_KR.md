@@ -21,4 +21,4 @@
 ### 유머
 - BTC에 미친 사나이님의 [트잭 10번 이하 견해 언급금지](https://x.com/nestedSegwit/status/1757713218821337441)
 - BTC에 미친 사나니님의 ["비트코인 몇개 있으신가요?"](https://x.com/nestedSegwit/status/1831641600088514806)
-- 오수 [하지마Tlqkf](https://x.com/123aa75439260/status/1669200851259494402)
+- 오수님의 [하지마Tlqkf](https://x.com/123aa75439260/status/1669200851259494402)
