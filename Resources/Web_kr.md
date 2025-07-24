@@ -5,43 +5,43 @@
 #### - 지분전쟁 네이버 카페 https://cafe.naver.com/btcforever
 #### - 포우(POW) https://powbitcoiner.com/
 #### - 비트코인 소셜 레이어 [notion.site](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
-
+---
 ## ⚡️ 라이트닝 결제
 - 사토샵 https://store.btcmap.kr/stores/browse/
 - 사토시마켓 https://satoshimarket.biz/ecommerce/
 - 오프라인 결제 매장 지도 [https://btcmap.kr](https://map.naver.com/p/favorite/myPlace/folder/fe1fa6f0d1bf4df3a628588a64a56210/pc?c=15.00,0,0,0,dh)
-
+---
 ## 🌐 개인 사이트
-### ATOMIC⚡️₿ITCOIN [atomicBTC.kr](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131)
-- 비트코인의 기본 개념, 전략, 오해, 미래
-- 비트코인 책 소개, 매장안내, 행사안내
-- 비트코인 소셜레이어 안내 등
+### 1. ATOMIC⚡️₿ITCOIN [atomicBTC.kr](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131)
+> 비트코인의 기본 개념, 전략, 오해, 미래  
+> 비트코인 책 소개, 매장안내, 행사안내  
+> 비트코인 소셜레이어 안내 등  
 
-### @CoinsectChris님의 [bitcoin blog](https://btc.coinsect.io/)
-- **(강추)** 아티클과 여러가지 비트코인 관련 도구들이 있는 블로그
+### 2. @CoinsectChris님의 [bitcoin blog](https://btc.coinsect.io/)
+> **(강추)** 아티클과 여러가지 비트코인 관련 도구들이 있는 블로그
 
-### 네딸바와 함께 하는 비트코인 [notion.site](https://righteous-route-5d3.notion.site/1cdc206ac58f8010b45ad550d5686a08)
-- 비트코인 이해하는 순서 (유튜브 플레이리스트 형식)
+### 3. 네딸바와 함께 하는 비트코인 [notion.site](https://righteous-route-5d3.notion.site/1cdc206ac58f8010b45ad550d5686a08)
+> 비트코인 이해하는 순서 (유튜브 플레이리스트 형식)
   
-### 셀프카스타드 [notion.site](https://florentine-porkpie-563.notion.site/2e905cab90ae4a979711ec40bbb85d64?v=7c329be91bd44a03928fcfa3ed4c3fe4)  
-- 노드설치 및 관리자료
+### 4. 셀프카스타드 [notion.site](https://florentine-porkpie-563.notion.site/2e905cab90ae4a979711ec40bbb85d64?v=7c329be91bd44a03928fcfa3ed4c3fe4)  
+> 노드설치 및 관리자료
 
-### @Kopernik_BTC님의 [There is no Second Best⚡️그래프(BTC vs WTF)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ6E5uQvhgC4scIMLfhoh0f6u4xZS0LZhkY2pWcBDkFGjztA2K0_sD1JTgs59bUhg/pubhtml)
-- 구글시트: BTC대비 압구정 현대아파트, 테슬라, 스트레티지, S&P, 삼성전자 그래프+테이블
+### 5. @Kopernik_BTC님의 [There is no Second Best⚡️그래프(BTC vs WTF)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ6E5uQvhgC4scIMLfhoh0f6u4xZS0LZhkY2pWcBDkFGjztA2K0_sD1JTgs59bUhg/pubhtml)
+> 구글시트: BTC대비 압구정 현대아파트, 테슬라, 스트레티지, S&P, 삼성전자 그래프+테이블
 
-### lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
-- 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳
-- 2024년 1월 29일 마지막 글
-
+### 6. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
+> 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳
+> 2024년 1월 29일 마지막 글
+---
 ## 🐦 교육용 트윗
 - Cyp3er님의 [비트코인 커뮤니티 가이드 및 정보 글 모음](https://x.com/cyp3er/status/1886656144229421553)
 - 네딸바님의 [비트코인을 이제 시작하신 분들을 위한 영상 추천](https://x.com/nldd21/status/1860709287481467109)
-
+---
 ## 🌐 그 외 사이트
 ### [Myseedkey](https://myseedkey.com/learn/bitcoin/)
-- 주의: 니모닉 복구 업체/쉿코인 링크
-- 비트코인의 기본지식 설명
-
+> 비트코인의 기본지식 설명  
+> 주의: 니모닉 복구 업체/쉿코인 링크
+---
 ## 🎦 유튜브 채널
 참고자료: [@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) (순서 무관)  
 
