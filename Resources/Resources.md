@@ -53,6 +53,9 @@
 ### [세이빙 사토시 게임](https://savingsatoshi.com/ko)
 > 비트코인 코드와 개발의 이해를 돕는 게임 (BSL 번역)
 
+### [미제스 코리아](https://miseskorea.org/)
+> 미제스 연구소는 고전적 자유주의 전통에 기반해 있는 오스트리아학파 경제학, 자유, 그리고 번영의 증진을 위해 헌신하는 교육기관입니다.
+
 ### [BIP39 니모닉 단어 파일 (영문)](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 
 ---
