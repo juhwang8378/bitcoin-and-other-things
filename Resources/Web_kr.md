@@ -9,7 +9,7 @@
 ## ⚡️ 라이트닝 결제
 - 사토샵 https://store.btcmap.kr/stores/browse/
 - 사토시마켓 https://satoshimarket.biz/ecommerce/
-- 오프라인 결제 매장 [https://btcmap.kr](https://map.naver.com/p/favorite/myPlace/folder/fe1fa6f0d1bf4df3a628588a64a56210/pc?c=15.00,0,0,0,dh)
+- 오프라인 결제 매장 지도 [https://btcmap.kr](https://map.naver.com/p/favorite/myPlace/folder/fe1fa6f0d1bf4df3a628588a64a56210/pc?c=15.00,0,0,0,dh)
 
 ## 🌐 개인 사이트
 ### ATOMIC⚡️₿ITCOIN [atomicBTC.kr](https://atomicbtc.notion.site/ATOMIC-ITCOIN-8808cd293d9e4fd294a03fdd590c2131)
@@ -33,13 +33,13 @@
 - 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳
 - 2024년 1월 29일 마지막 글
 
-## 그 외 사이트
+## 🌐 그 외 사이트
 ### [Myseedkey](https://myseedkey.com/learn/bitcoin/)
 - 주의: 니모닉 복구 업체/쉿코인 링크
 - 비트코인의 기본지식 설명
 
 ## 🎦 유튜브 채널
-[@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) 참고 (순서 무관)  
+참고자료: [@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) (순서 무관)  
 
 ### 마지막 업로드 2025년
 - 지분전쟁⚡️상원수 [@btc5000k](https://www.youtube.com/@btc5000k)
