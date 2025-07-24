@@ -31,6 +31,6 @@
 - Hal Finney [Running bitcoin](https://x.com/halfin/status/1110302988)
 
 ### Toilet:
-- Do Kown [Deploying more capital - steady lads](https://x.com/stablekwon/status/1523733542492016640)
+- Do Kwon [Deploying more capital - steady lads](https://x.com/stablekwon/status/1523733542492016640)
 - SBF [I'm sorry](https://x.com/SBF_FTX/status/1590709166515310593)
 - vitalik.eth [The person deciding the new EF leadership team is me](https://x.com/VitalikButerin/status/1881680518934384676)
