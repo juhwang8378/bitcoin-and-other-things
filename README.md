@@ -5,7 +5,7 @@
 </p>
 
 <p>비트코인 백서 (영문): <a href="https://bitcoin.org/bitcoin.pdf">링크</a></p>
-<p>비트코인 백서 (한글): <a href="/pdf/백서_한글번역(A4).pdf">링크</a></p>
+<p>비트코인 백서 (한글): <a href="Resources/pdf/백서_한글번역(A4).pdf">링크</a></p>
 <p></p>
 <p>온라인 자료: <a href="https://bitcoin.org/bitcoin.pdf">링크</a></p>
 <p>비트코인 관련 책: <a href="https://bitcoin.org/bitcoin.pdf">링크</a></p>
