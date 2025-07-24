@@ -1,19 +1,24 @@
 # My saved tweets
 
-- Saifedean Ammous [Happy 2025!](https://x.com/saifedean/status/1874529178843848784)
+### Reports/Resources
 - Eric Yakes [The Bitcoin Ecosystem 2024 Annual Report](https://x.com/ericyakes/status/1892233113675190412)
-- Pierre Rochard [On UTXO vs ETH](https://x.com/BitcoinPierre/status/1893745331646447642)
-- Alan Knitowski [Confessions of an Economic Hitman by John Peters](https://x.com/alanknit/status/1896949974115729537)
-- David Seroy [Bitcoin Rollups](https://x.com/david_seroy/status/1756719864046317792)
-- Luke Broyles [Hostile takeover](https://x.com/luke_broyles/status/1909983914342367320)
-- Liana Wallet [Bitcoin timelocks](https://x.com/lianabitcoin/status/1915733139739000977)
-- Peter Englund [Softwar Deepdive](https://x.com/PetterEnglund/status/1917535537340043700)
 - nic carter [Books on Free Banking](https://x.com/nic__carter/status/1947699946049749335)
+  
+
+### Technical
+- Pierre Rochard [On UTXO vs ETH](https://x.com/BitcoinPierre/status/1893745331646447642)
+- David Seroy [Bitcoin Rollups](https://x.com/david_seroy/status/1756719864046317792)
+- Liana Wallet [Bitcoin timelocks](https://x.com/lianabitcoin/status/1915733139739000977)
 - 5KSANA [BitcoinArt Self-hosting](https://x.com/5Ksana/status/1941541747689128407)
-- Lyn Alden [Conversation about deflationary economy](https://x.com/LynAldenContact/status/1936198792795078950)
 - Bitcoin Illustrated [RBF: Replace-By-Fee explained simply](https://x.com/BTCillustrated/status/1854787582250692767)
+
+### Miscellaneous 
+- Saifedean Ammous [Happy 2025!](https://x.com/saifedean/status/1874529178843848784)
+- Alan Knitowski [Confessions of an Economic Hitman by John Peters](https://x.com/alanknit/status/1896949974115729537)
+- Luke Broyles [Hostile takeover](https://x.com/luke_broyles/status/1909983914342367320)
+- Lyn Alden [Conversation about deflationary economy](https://x.com/LynAldenContact/status/1936198792795078950)
+- Peter Englund [Softwar Deepdive](https://x.com/PetterEnglund/status/1917535537340043700)
 - BTCCLUB [Melbourne Investment Real Estate Results](https://x.com/ausbtcclub/status/1929318019542728770)
-- Rumi [A grateful heart sees abundance everywhere](https://x.com/rumilyrics/status/1946922036971901270)
 
 ### History
 - Michael Saylor [#Bitcoin days are numbered](https://x.com/saylor/status/413478389329428480)
