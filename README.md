@@ -2,6 +2,10 @@
 
 영어자료 정리는 [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)을 따라갈 수 없다고 생각해서 한국어만 정리해봤습니다.
 
+<p style="font-size: 10px;">
+  주의사항: 내용을 정확하고 최신으로 유지하기 위해 노력하고 있지만, 이 곳에 포함된 정보의 완전성, 정확성, 신뢰성에 대해 어떠한 보증도 하지 않습니다. 이 곳에 제공된 정보와 내용에 대한 모든 의존은 전적으로 사용자의 책임이고 그로 인해 발생하는 오류, 누락 또는 결과에 대해 이 곳 관리자는 어떠한 책임도 지지 않습니다.
+</p>
+
 <details>
   <summary>연락처</summary>
   <p>X: 
@@ -14,7 +18,3 @@
     <a href="https://primal.net/p/nprofile1qqs05h4qpl9yy6wq39zu48mcnmgjh7r999s9fhrgsjxk945lzp6lhlsd8zdu8">juhwang@oksu.su</a>
   </p> 
 </details>
-
-<p style="font-size: 10px;">
-  주의사항: 내용을 정확하고 최신으로 유지하기 위해 노력하고 있지만, 이 곳에 포함된 정보의 완전성, 정확성, 신뢰성에 대해 어떠한 보증도 하지 않습니다. 이 곳에 제공된 정보와 내용에 대한 모든 의존은 전적으로 사용자의 책임이고 그로 인해 발생하는 오류, 누락 또는 결과에 대해 이 곳 관리자는 어떠한 책임도 지지 않습니다.
-</p>
