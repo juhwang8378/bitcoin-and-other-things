@@ -1,7 +1,9 @@
-# Ju Hwang's Bitcoin Resources
+# 비트코인 한국어 자료 정리
+
+영어자료 정리는 [Jameson Lopp](https://www.lopp.net/bitcoin-information.html)을 따라갈 수 없다고 생각해서 한국어만 정리해봤습니다.
 
 <details>
-  <summary>Contact</summary>
+  <summary>연락처</summary>
   <p>X: 
     <a href="https://x.com/juhwang8378">@juhwang8378</a>
   </p>
@@ -10,9 +12,9 @@
   </p>
   <p>Nostr/LN: 
     <a href="https://primal.net/p/nprofile1qqs05h4qpl9yy6wq39zu48mcnmgjh7r999s9fhrgsjxk945lzp6lhlsd8zdu8">juhwang@oksu.su</a>
-  </p>
-
-  
+  </p> 
 </details>
 
-  **Disclaimer**: The information provided in this repository is for general informational purposes only. While I strive to keep the content accurate and up to date, I make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, or suitability of the information contained herein. Use of this repository and any reliance on its content is strictly at your own risk. I accept no responsibility or liability for any errors, omissions, or outcomes resulting from its use.
+<p style="font-size: 10px;">
+  주의사항: 내용을 정확하고 최신으로 유지하기 위해 노력하고 있지만, 이 곳에 포함된 정보의 완전성, 정확성, 신뢰성에 대해 어떠한 보증도 하지 않습니다. 이 곳에 제공된 정보와 내용에 대한 모든 의존은 전적으로 사용자의 책임이고 그로 인해 발생하는 오류, 누락 또는 결과에 대해 이 곳 관리자는 어떠한 책임도 지지 않습니다.
+</p>
