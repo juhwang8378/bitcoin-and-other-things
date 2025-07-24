@@ -9,6 +9,7 @@
 - 비트코인 대시보드: [링크](Resources/Dashboards.md)
 - 내가 좋아하는 트윗 모음: [영어](Resources/Tweets_EN.md), [한글](Resources/Tweets_KR.md)
 - 유용한 GitHub 자료: [링크](Resources/Repositories.md)
+- ChatGPT 개조하는 방법: [링크](AI/ChatGPT_KR.md)
 ---
 <details>
   <summary>연락처</summary>
