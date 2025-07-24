@@ -1,11 +1,14 @@
 # 한국어 비트코인 자료
 
 ## 🏘️ 커뮤니티
-- 지분전쟁 디스코드 서버 https://discord.gg/gX3gK3pzJk
+### 1. 지분전쟁 디스코드 서버 https://discord.gg/gX3gK3pzJk
 > (지갑인증 필수) 이벤트 참여, 실시간 채팅, pdf 자료 등
-- 지분전쟁 네이버 카페 https://cafe.naver.com/btcforever
-- 포우(POW) https://powbitcoiner.com/
-- 비트코인 소셜 레이어 [notion.site](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
+### 2. 지분전쟁 네이버 카페 https://cafe.naver.com/btcforever
+> (등업 허들) 게시판 위주 소통, 가이드 및 꿀팁 공유
+### 3. 포우(POW) https://powbitcoiner.com/
+> (등업 없음) 게시판 위주 소통, 가이드 및 꿀팁 공유
+### 4. 비트코인 소셜 레이어 [notion.site](https://exciting-cheek-5fa.notion.site/itcoin-Social-Layer-17267469618f80e78b4ec91ae055ec06)
+> (한달에 한번 가입심사) 비트코인을 사랑하는 다양한 사람들이 모여 사회 발전과 확장을 위해 봉사하는 그룹
 ---
 ## ⚡️ 라이트닝 결제
 - 사토샵 https://store.btcmap.kr/stores/browse/
@@ -42,6 +45,9 @@
 ### [Myseedkey](https://myseedkey.com/learn/bitcoin/)
 > 비트코인의 기본지식 설명  
 > 주의: 니모닉 복구 업체/알트코인 링크
+
+### [세이빙 사토시 게임](https://savingsatoshi.com/ko)
+> 비트코인 코드와 개발의 이해를 돕는 게임 (BSL 번역)
 
 ### [BIP39 니모닉 단어 파일 (영문)](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 
