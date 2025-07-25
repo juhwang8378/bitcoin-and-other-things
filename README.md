@@ -8,7 +8,10 @@
 - 비트코인 대시보드: [링크](Resources/Dashboards.md)
 - 내가 좋아하는 트윗 모음: [영어](Resources/Tweets_EN.md), [한글](Resources/Tweets_KR.md)
 - 유용한 GitHub 자료: [링크](Resources/Repositories.md)
-- ChatGPT 개조하는 방법: [링크](AI/ChatGPT_KR.md)
+- ChatGPT 개조하는 방법: [링크](AI/ChatGPT_KR.md)  
+
+*@atomicBTC님 번역  
+
 ---
 <details>
   <summary>연락처</summary>
@@ -25,5 +28,4 @@
   </ul>
 </details>
 
-*@atomicBTC님 번역
 > Disclaimer: 내용을 정확하고 최신으로 유지하기 위해 노력하고 있지만, 이 리포지토리에 포함된 정보의 완전성, 정확성, 신뢰성에 대해 어떠한 보증도 하지 않습니다. 이 리포지토리에 제공된 정보와 내용에 대한 모든 의존은 전적으로 사용자의 책임이고 그로 인해 발생하는 오류, 누락 또는 결과에 대해 이 리포지토리 관리자는 어떠한 책임도 지지 않습니다.
