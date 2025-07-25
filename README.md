@@ -4,7 +4,7 @@
 > 영어 자료는 [Jameson Lopp](https://www.lopp.net/bitcoin-information.html) 사이트로 가면 보실 수 있습니다
 ---
 #### 그 외 자료
-- 비트코인 백서: [영어](https://bitcoin.org/bitcoin.pdf), [한글 (번역:@atomicBTC](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F747B5616127C925A%21311887%3Fithint%3Dphoto%26e%3DUJjybr%26migratedtospo%3Dtrue&sw=bypassConfig&cid=747B5616127C925A&id=747B5616127C925A%21311887&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBbHFTZkJJV1ZudDBrNFJQZGhQSUVhM1VXSkdNSVE%5FZT1VSmp5YnI&v=photos)
+- 비트코인 백서: [영어](https://bitcoin.org/bitcoin.pdf), [한글 (번역:@atomicBTC)](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F747B5616127C925A%21311887%3Fithint%3Dphoto%26e%3DUJjybr%26migratedtospo%3Dtrue&sw=bypassConfig&cid=747B5616127C925A&id=747B5616127C925A%21311887&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBbHFTZkJJV1ZudDBrNFJQZGhQSUVhM1VXSkdNSVE%5FZT1VSmp5YnI&v=photos)
 - 비트코인 대시보드: [링크](Resources/Dashboards.md)
 - 내가 좋아하는 트윗 모음: [영어](Resources/Tweets_EN.md), [한글](Resources/Tweets_KR.md)
 - 유용한 GitHub 자료: [링크](Resources/Repositories.md)
