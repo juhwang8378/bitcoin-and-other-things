@@ -9,6 +9,7 @@
 - 내가 좋아하는 트윗 모음: [영어](Resources/Tweets_EN.md), [한글](Resources/Tweets_KR.md)
 - 유용한 GitHub 자료: [영어](Resources/Repositories.md)
 - ChatGPT 개조하는 방법: [영어+한글](AI/ChatGPT_KR.md)  
+- 내 미래 나이에 비트코인은?: [한글](https://juhwang8378.github.io/bitcoin-age/), [리포](https://github.com/juhwang8378/bitcoin-age)
 
 *@atomicBTC님 번역  
 
