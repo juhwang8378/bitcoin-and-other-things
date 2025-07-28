@@ -26,3 +26,5 @@
 - 기분전쟁⚡️중원수님의 [어떻게 알았냐](https://x.com/1zza_nasa/status/1870794220791107826?s=46&t=vL-DtBaauExnBKoZPRSnaw)
 - BTC에 미친 코인충님의 [너도 무언가를 그리 깊이 사랑해봐](https://x.com/CoinsectChris/status/1948361572868354493)
 - lifeisgood님의 [벼룩 밈](https://x.com/lifeisgoodBTC/status/1734093036672729147)
+- hodlcrabs님의 [비트코인 털렸습니다](https://x.com/hodlcrabs/status/1948262325557035389?s=46&t=vL-DtBaauExnBKoZPRSnaw)
+
