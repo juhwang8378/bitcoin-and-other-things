@@ -36,11 +36,14 @@
 #### 5. @Kopernik_BTC님의 [There is no Second Best⚡️그래프(BTC vs WTF)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ6E5uQvhgC4scIMLfhoh0f6u4xZS0LZhkY2pWcBDkFGjztA2K0_sD1JTgs59bUhg/pubhtml)
 > 구글시트: BTC대비 압구정 현대아파트, 테슬라, 스트레티지, S&P, 삼성전자 그래프+테이블
 
-#### 6. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
+#### 6. @3min⚡️bitcoin님의 [비트코인 블로그](https://3min-bitcoin.tistory.com/)
+> 2025년 8월 첫글. 자주 업데이트를 확인해보자
+
+#### 7. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
 > 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳  
 > (2024년 1월 29일 마지막 글)
 
-#### 7. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
+#### 8. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
 > 여러 아티클 그리고 자료와 도구
 > (2023년 12월 7일 마지막 글)
 ---
