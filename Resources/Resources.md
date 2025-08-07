@@ -33,17 +33,20 @@
 #### 4. 셀프카스타드 [notion.site](https://florentine-porkpie-563.notion.site/2e905cab90ae4a979711ec40bbb85d64?v=7c329be91bd44a03928fcfa3ed4c3fe4)  
 > 노드설치 및 관리자료
 
-#### 5. @Kopernik_BTC님의 [There is no Second Best⚡️그래프(BTC vs WTF)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ6E5uQvhgC4scIMLfhoh0f6u4xZS0LZhkY2pWcBDkFGjztA2K0_sD1JTgs59bUhg/pubhtml)
+#### 5. @21mberlin님의 [Corn🌽Hub](https://oasis-milk-790.notion.site/Corn-Hub-By-Berlin-23f82e1163ca80318d93d8d1f047daee)
+> 라이트닝 노드 0부터 100까지. 단연코 최고의 가이드.
+
+#### 6. @Kopernik_BTC님의 [There is no Second Best⚡️그래프(BTC vs WTF)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ6E5uQvhgC4scIMLfhoh0f6u4xZS0LZhkY2pWcBDkFGjztA2K0_sD1JTgs59bUhg/pubhtml)
 > 구글시트: BTC대비 압구정 현대아파트, 테슬라, 스트레티지, S&P, 삼성전자 그래프+테이블
 
-#### 6. @3min⚡️bitcoin님의 [비트코인 블로그](https://3min-bitcoin.tistory.com/)
+#### 7. @3min⚡️bitcoin님의 [비트코인 블로그](https://3min-bitcoin.tistory.com/)
 > 2025년 8월 첫글. 자주 업데이트를 확인해보자
 
-#### 7. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
+#### 8. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
 > 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳  
 > (2024년 1월 29일 마지막 글)
 
-#### 8. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
+#### 9. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
 > 여러 아티클 그리고 자료와 도구  
 > (2023년 12월 7일 마지막 글)
 ---
