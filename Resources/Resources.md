@@ -34,7 +34,7 @@
 > 노드설치 및 관리자료
 
 #### 5. @21mberlin님의 [Corn🌽Hub](https://oasis-milk-790.notion.site/Corn-Hub-By-Berlin-23f82e1163ca80318d93d8d1f047daee)
-> 라이트닝 노드 0부터 100까지. 단연코 최고의 가이드.
+> (초대링크 필요) 라이트닝 노드 0부터 100까지. 단연코 최고의 가이드. 
 
 #### 6. @Kopernik_BTC님의 [There is no Second Best⚡️그래프(BTC vs WTF)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ6E5uQvhgC4scIMLfhoh0f6u4xZS0LZhkY2pWcBDkFGjztA2K0_sD1JTgs59bUhg/pubhtml)
 > 구글시트: BTC대비 압구정 현대아파트, 테슬라, 스트레티지, S&P, 삼성전자 그래프+테이블
