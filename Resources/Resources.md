@@ -42,14 +42,17 @@
 #### 7. @3min⚡️bitcoin님의 [비트코인 블로그](https://3min-bitcoin.tistory.com/)
 > 2025년 8월 첫글. 자주 업데이트를 확인해보자
 
-#### 8. 논스랩의 [비트코인 기술자료 한글 해석](https://github.com/noncelab/bitcoin-haerye/tree/main)
+#### 8. Bitcoin Specter님의 [비트코이너들의 계몽운동 블로그](https://m.blog.naver.com/PostList.naver?blogId=specterbitcoin&tab=1)
+> 비트코인 뉴스, 팁, 컨퍼런스 소식
+
+#### 9. 논스랩의 [비트코인 기술자료 한글 해석](https://github.com/noncelab/bitcoin-haerye/tree/main)
 > 마스터링 비트코인, 마스터링 라이트닝 네트워크 한글 번역 및 해설 자료
 
-#### 9. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
+#### 10. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
 > 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳  
 > (2024년 1월 29일 마지막 글)
 
-#### 10. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
+#### 11. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
 > 여러 아티클 그리고 자료와 도구  
 > (2023년 12월 7일 마지막 글)
 ---
