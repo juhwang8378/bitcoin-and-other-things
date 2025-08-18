@@ -20,6 +20,7 @@
 - Lyn Alden [Conversation about deflationary economy](https://x.com/LynAldenContact/status/1936198792795078950)
 - Peter Englund [Softwar Deepdive](https://x.com/PetterEnglund/status/1917535537340043700)
 - BTCCLUB [Melbourne Investment Real Estate Results](https://x.com/ausbtcclub/status/1929318019542728770)
+- Michael Saylor [Cyber Hornets](https://x.com/saylor/status/1307029562321231873)
 
 ### History
 - Michael Saylor [#Bitcoin days are numbered](https://x.com/saylor/status/413478389329428480)
