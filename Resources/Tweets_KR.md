@@ -10,7 +10,7 @@
 - 네딸바님의 [물음표(?)만 달았다고 해서 질문인건 아님](https://x.com/nldd21/status/1899621629061398581)
 - 네딸바님의 [비트코인을 이제 시작하신 분들을 위한 영상 추천](https://x.com/nldd21/status/1860709287481467109)
 - 빵집아줌마님의 [빵집 노동자는 왜 비트코인을 택했나](https://x.com/yunyoungjnag/status/1944609873658069169)
-- BTC.Mando님의 [Rothbard on bitcoin](https://x.com/huszcxywru45qfd/status/1520944877378228224?s=46&t=vL-DtBaauExnBKoZPRSnaw)
+- BTC_Mando님의 [Rothbard on bitcoin](https://x.com/huszcxywru45qfd/status/1520944877378228224?s=46&t=vL-DtBaauExnBKoZPRSnaw)
 
 ### 안캡
 - 머레이님의 [정치인의 속마음](https://x.com/murray_n_r/status/1936216255268372719)
