@@ -48,11 +48,14 @@
 #### 9. 논스랩의 [비트코인 기술자료 한글 해석](https://github.com/noncelab/bitcoin-haerye/tree/main)
 > 마스터링 비트코인, 마스터링 라이트닝 네트워크 한글 번역 및 해설 자료
 
-#### 10. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
+#### 10. Loden님의 [loden.nodeway 블로그](https://blog.naver.com/loden_nodeway)
+> 비트코인 기술 이해 및 오스트리안 경제학
+
+#### 11. lovelake08n님의 [The Internet of Money 블로그](https://blog.naver.com/lovelake08n)
 > 셀프커스터디 중요 자료와 노드 설치 가이드 등 비트코인에 관한 소중한 생각들을 기록하신 곳  
 > (2024년 1월 29일 마지막 글)
 
-#### 11. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
+#### 12. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
 > 여러 아티클 그리고 자료와 도구  
 > (2023년 12월 7일 마지막 글)
 ---
