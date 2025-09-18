@@ -9,7 +9,7 @@
 > (가입심사) 비트코인을 사랑하는 다양한 사람들이 모여 사회 발전과 확장을 위해 봉사하는 그룹
 ### 4. 포우(POW) https://powbitcoiner.com/
 > (등업 무) 게시판 위주 소통, 가이드 및 꿀팁 공유
-### 5. 논스랩 코코넛팀 [링크트리](https://linktr.ee/noncelab)
+### 5. 논스랩 코코넛팀 [Linktree](https://linktr.ee/noncelab)
 > X, 인스타, 스레드, 유튜브 SNS채널 링크모음
 ---
 ## ⚡️ 라이트닝 결제
