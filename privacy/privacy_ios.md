@@ -1,6 +1,6 @@
 > 2025년 1월 8일 [Stacker News](https://stacker.news/items/841476)에서 @runningbitcoin님께서 마이클 바젤의 책 [Extreme Privacy: What it takes to disappear](https://inteltechniques.com/book7.html)을 바탕으로 작성한 글을 ChatGPT 5로 1차 번역 및 요약한 뒤, 제가 마무리 편집을 한 글입니다 (번역 교정, 이모지, 등). 일부 설정 용어가 정확하게 번역이 되지 않았을 수도 있습니다.
 
-![Picture](privacy/apple_privacy.jpg)
+![Picture](apple_privacy.jpg)
 
 # 1️⃣ 기기 준비하기
 이 섹션에서는 iOS 기기를 더 높은 수준의 프라이버시와 보안을 위해 설정합니다. GrapheneOS를 사용하는 커스텀 안드로이드 기기를 강력히 권장하지만, 일부 사용자는 iOS 기기에 머무르길 선호할 수 있습니다. 
