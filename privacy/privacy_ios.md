@@ -1,4 +1,4 @@
-> 2025년 1월 8일 [Stacker News](https://stacker.news/items/841476)에서 @runningbitcoin님께서 마이클 바젤의 책 [Extreme Privacy: What it takes to disappear](https://inteltechniques.com/book7.html)을 바탕으로 작성한 글을 ChatGPT 5로 1차 번역 및 요약한 뒤, 제가 마무리 편집을 한 글입니다 (번역 교정, 이모지, 등). 일부 설정 용어가 정확하게 번역이 되지 않았을 수도 있습니다.
+> 2025년 1월 8일 [Stacker News](https://stacker.news/items/841476)에서 @runningbitcoin님께서 마이클 바젤의 책 [Extreme Privacy: What it takes to disappear](https://inteltechniques.com/book7.html)을 바탕으로 작성한 글을 ChatGPT 5로 1차 번역 및 요약한 뒤, 제가 마무리 편집을 한 글입니다 (번역 교정, 이모지, 등). 일부 설정 용어가 정확하게 번역이 되지 않았을 수도 있습니다. 원글은 메인폰으로 사용하기 위한 가이드라서 공기계로 사용하실 분들은 SIM카드나 셀룰러 연결 등의 설명은 건너뛰셔도 좋습니다.
 
 ![Picture](apple_privacy.jpg)
 
