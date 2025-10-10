@@ -19,7 +19,7 @@
   <summary>연락처</summary>
   <ul>
   <li>X: 
-    <a href="https://x.com/juhwang8378">@juhwang8378</a>
+    <a href="https://x.com/juhwang8378">@juhwang8378 (현재 휴면중)</a> 
   </li>
   <li>Email: 
     <a href="mailto:juhwang8378">juhwang8378@proton.me</a>
