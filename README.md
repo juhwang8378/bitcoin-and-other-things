@@ -8,7 +8,7 @@
 - 비트코인 대시보드: [영어+한글](Resources/Dashboards.md)
 - 내가 좋아하는 트윗 모음: [영어](Resources/Tweets_EN.md), [한글](Resources/Tweets_KR.md)
 - 유용한 GitHub 자료: [영어](Resources/Repositories.md)
-- ChatGPT 개조하는 방법: [영어+한글](AI/ChatGPT_KR.md)  
+- ChatGPT 개조하는 방법: [영어+한글](AI/ChatGPT_KR.md) + [프롬프트 엔지니어링 도구 by OpenAI](https://platform.openai.com/chat/edit?models=gpt-5&optimize=true)
 - 내 미래 나이에 비트코인은?: [한글](https://juhwang8378.github.io/bitcoin-age/), [리포](https://github.com/juhwang8378/bitcoin-age)
 - iOS 프라이버시 설정 가이드 [한글](privacy/privacy_ios.md)
 
