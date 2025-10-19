@@ -98,7 +98,8 @@
 - 비트벌새 [@btc_hummingbird](https://www.youtube.com/@btc_hummingbird)
 - 라이프이스굿 [@lifeisgoodBTC](https://www.youtube.com/@lifeisgoodBTC)
 - 스펙터 비트코인 [@BitcoinSPECTER2100](https://www.youtube.com/@BitcoinSPECTER2100)
-- 비트카인 [@BTC_KYLE](https://www.youtube.com/@BTC_KYLE)
+- 비트카일 [@BTC_KYLE](https://www.youtube.com/@BTC_KYLE)
+- 오렌지캬라멜비트코인 [@OkyaBitcoin](https://www.youtube.com/@OkyaBitcoin)
   
 ### 마지막 업로드 2024년
 - 아토믹⚡️비트코인 [@atomicBTC](https://www.youtube.com/@atomicBTC)
