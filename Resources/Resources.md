@@ -100,6 +100,7 @@
 - 스펙터 비트코인 [@BitcoinSPECTER2100](https://www.youtube.com/@BitcoinSPECTER2100)
 - 비트카일 [@BTC_KYLE](https://www.youtube.com/@BTC_KYLE)
 - 오렌지캬라멜비트코인 [@OkyaBitcoin](https://www.youtube.com/@OkyaBitcoin)
+- 리버스온 [@ReBirth_ON](https://www.youtube.com/@ReBirth_ON)
   
 ### 마지막 업로드 2024년
 - 아토믹⚡️비트코인 [@atomicBTC](https://www.youtube.com/@atomicBTC)
