@@ -67,6 +67,9 @@
 > @btclog29님의 웹앱  
 > 프리미엄까지 계산 가능, 실시간 가격 반영
 
+### [수수료 계산기 by 한입 비트코인](http://playground.onebitebitcoin.com/fee)
+> 가장 최적의 수수료 경로를 계산해주는 사이트
+
 ### [Myseedkey](https://myseedkey.com/learn/bitcoin/)
 > 비트코인의 기본지식 설명  
 > 주의: 니모닉 복구 업체/알트코인 링크
