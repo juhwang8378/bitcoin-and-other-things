@@ -3,7 +3,7 @@
 ## 1. [Mempool.space](https://mempool.space) by [@mempool](https://x.com/mempool)
 ![Picture](pics/screenshot_mempoolspace.png)
 
-## 2. [Only Bitcoin](https://btc-price.web.app) by [@kkusaeng](https://x.com/kkusaeng)
+## 2. [Only Bitcoin](https://www.only-btc.app/overview) by [@kkusaeng](https://x.com/kkusaeng)
 ![Picture](pics/screenshot_onlybitcoin.png)
 
 ## 3. [Clark Moody Bitcoin](https://dashboard.clarkmoody.com) by [@clarkmoody](https://x.com/clarkmoody)
