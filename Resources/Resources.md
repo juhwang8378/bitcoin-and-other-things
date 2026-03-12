@@ -89,9 +89,16 @@
 
 ---
 ## 🎦 유튜브 채널
-참고자료: [@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) (순서 무관)  
+참고자료: [@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) + 디스코드 (순서 무관)  
 
 ### 마지막 업로드 2025-2026년
+- 망고일기 [@망고BTC](https://www.youtube.com/@%EB%A7%9D%EA%B3%A0BTC)
+- 사루빗 [@sarubit](https://www.youtube.com/@sarubit)
+- 오리지널머니 [@오리지널머니](https://www.youtube.com/@%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%EB%A8%B8%EB%8B%88)
+- 내멋대로비트코인 [@BTC2ideB](https://www.youtube.com/@BTC2ideB)
+- 귀로 듣는 비트코인 [@BTC_J](https://www.youtube.com/@BTC_J)
+- bitlog [@btclog](https://www.youtube.com/@btclog/videos)
+- 비트코인 세틀러 [@settler-cc2kz](https://www.youtube.com/@settler-cc2kz/featured)
 - 지분전쟁⚡️상원수 [@btc5000k](https://www.youtube.com/@btc5000k)
 - 네딸바 NL daughter's daddy [@네딸바](https://www.youtube.com/@네딸바)
 - 유노나띵엣 [@mr.W.Investor](https://www.youtube.com/@mr.W.Investor)
