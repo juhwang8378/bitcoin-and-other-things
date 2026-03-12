@@ -1,7 +1,7 @@
 # 한국어 비트코인 자료
 
 ## 🏘️ 커뮤니티
-### 1. 지분전쟁 디스코드 서버 https://discord.gg/gX3gK3pzJk
+### 1. 지분전쟁 디스코드 서버 https://citadel.sx
 > (지갑인증 필수) 이벤트 참여, 실시간 채팅, pdf 자료 등
 ### 2. 지분전쟁 네이버 카페 https://cafe.naver.com/btcforever
 > (등업 유) 게시판 위주 소통, 가이드 및 꿀팁 공유
@@ -11,6 +11,11 @@
 > (등업 무) 게시판 위주 소통, 가이드 및 꿀팁 공유
 ### 5. 논스랩 코코넛팀 [Linktree](https://linktr.ee/noncelab)
 > X, 인스타, 스레드, 유튜브 SNS채널 링크모음
+---
+## 비트코인 센터
+### 1. 비트코인 센터 서울 (홍대) https://www.bitcoincenterseoul.com/
+### 2. OriginX (강남) https://www.originx.xyz/
+### 3. Base 21 (부산) https://base21.space/
 ---
 ## ⚡️ 라이트닝 결제
 #### 사토샵 https://store.btcmap.kr/stores/browse/
@@ -86,7 +91,7 @@
 ## 🎦 유튜브 채널
 참고자료: [@atomicBTC님 스레드](https://x.com/atomicBTC/status/1564381447527727104) (순서 무관)  
 
-### 마지막 업로드 2025년
+### 마지막 업로드 2025-2026년
 - 지분전쟁⚡️상원수 [@btc5000k](https://www.youtube.com/@btc5000k)
 - 네딸바 NL daughter's daddy [@네딸바](https://www.youtube.com/@네딸바)
 - 유노나띵엣 [@mr.W.Investor](https://www.youtube.com/@mr.W.Investor)
