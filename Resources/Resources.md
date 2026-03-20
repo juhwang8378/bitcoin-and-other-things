@@ -65,6 +65,8 @@
 #### 12. @bitomakase님의 [비트오마카세](https://bitomakase.com/)
 > 여러 아티클 그리고 자료와 도구  
 > (2023년 12월 7일 마지막 글)
+
+#### 13. 부엉집사님의 [New_B](https://louisbit.blogspot.com/?m=1)
 ---
 
 ## 🌐 그 외 사이트
